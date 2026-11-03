@@ -4,65 +4,64 @@
 
 I am an MCA graduate (2024) focused on software engineering, problem-solving, and building reliable, maintainable, and practical software applications.
 
-My interests lie in computer science fundamentals, algorithmic problem-solving, software design, backend engineering, database systems, and full-stack development.
+- ☕ **Primary Focus:** Enterprise Java Backend & Full Stack (Java 17+, Spring Boot, Spring Cloud, Microservices, PostgreSQL)
+- ⚛️ **Secondary Focus:** Modern Web Full Stack (MERN Engine, Node.js, Express, React, TypeScript)
+- 🧩 **Problem Solving:** Core DSA and algorithmic problem-solving in C++
 
-I enjoy understanding engineering concepts, translating ideas into working solutions, and continuously improving my ability to design and develop quality software.
+---
 
-### 🧠 Computer Science & Problem Solving
+### 🧠 Computer Science & Engineering Core
 
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Database Design and SQL
-- Algorithmic Thinking and Problem-Solving
+- Data Structures and Algorithms (C++)
+- Object-Oriented Programming & SOLID Principles
+- Database Management Systems (PostgreSQL, MySQL, MongoDB)
+- Operating Systems & Computer Networks
+- System Design & Microservices Architecture
+- RESTful API Design and SQL Optimization
+
+---
 
 ### 🛠️ Technical Toolkit
 
-**Programming Languages**
-- C++ (Primary language for DSA and problem-solving)
-- Java
-- Python
-- JavaScript
-- SQL
+**Primary Core Specialization (Java Full Stack)**
+- **Languages:** Java 17+, SQL, C++
+- **Frameworks & Core:** Spring Boot, Spring MVC, Spring Cloud, Spring Security, Hibernate/JPA
+- **Databases & Caching:** PostgreSQL, MySQL, Redis
 
-**Development & Engineering**
-- Backend Development
-- RESTful API Development
-- Object-Oriented Design
-- Database Management
-- Authentication and Authorization
-- Software Design Principles
-- Git and GitHub
+**Secondary Specialization (MERN Full Stack)**
+- **Languages & Frontend:** JavaScript (ES6+), TypeScript, React.js, Redux Toolkit,NextJS, HTML5, CSS3,Tailwind CSS and Bootstrap
+- **Backend & Web APIs:** Node.js, Express.js, WebSockets (Socket.io), REST APIs
+- **Database:** MongoDB, Mongoose ORM
 
-**Development Tools**
-- Linux
-- Visual Studio Code
-- IntelliJ IDEA
-- Postman
+**DevOps, Tools & Practices**
+- Docker, Apache Kafka, Git, GitHub, Linux, Postman, JUnit, IntelliJ IDEA, VS Code
+
+---
 
 ### ⚙️ Engineering Principles
 
 I value software engineering practices that contribute to building dependable and maintainable applications:
 
 - Clean, readable, and maintainable code.
-- Modular design and separation of concerns.
+- Modular microservices and separation of concerns.
 - Reusable components and structured implementation.
-- Efficient algorithms and problem-solving.
-- Proper data modeling and database management.
-- Input validation and error handling.
-- Application security and performance considerations.
+- Efficient algorithms and sub-50ms API latency goals.
+- Database schema normalization and query optimization.
+- Secure authentication, input validation, and error handling.
 
-### 🚀 Engineering Projects
+---
 
-I use GitHub to develop practical applications, implement programming concepts, explore engineering approaches, and document my technical learning.
+### 🚀 Engineering Projects & Portfolio
 
-My repositories include independent projects, problem-solving implementations, and learning exercises, with an emphasis on code quality, functionality, and continuous improvement.
+I use GitHub to develop scalable microservices, real-time web engines, cross-platform apps, and practical full-stack applications.
+
+My repositories are organized with **Java Backend & Spring Boot** as primary core projects, complemented by **MERN Stack** modern web applications.
+
+---
 
 ### 📚 Problem Solving & Competitive Programming
 
-Consistently strengthening my algorithmic thinking and problem-solving abilities through programming practice and competitive programming.
+Consistently strengthening my algorithmic thinking and problem-solving abilities through competitive programming practice.
 
 **Coding Profiles**
 
@@ -71,9 +70,7 @@ Consistently strengthening my algorithmic thinking and problem-solving abilities
 - [GeeksforGeeks](https://www.geeksforgeeks.org/profile/shekharsakat?tab=activity)
 - [InterviewBit](https://www.interviewbit.com/profile/shekharsakat130_9b42724c37c1/)
 
-### 📊 GitHub Statistics
-
-<!-- Add verified GitHub statistics here when appropriate. -->
+---
 
 ### 🤝 Connect With Me
 
@@ -83,4 +80,4 @@ Consistently strengthening my algorithmic thinking and problem-solving abilities
 
 ---
 
-*Focused on strong fundamentals, thoughtful problem-solving, and building quality software through continuous learning and practical engineering.*
+*Focused on strong CS fundamentals, enterprise backend depth, and building quality software through continuous learning and practical engineering.*
